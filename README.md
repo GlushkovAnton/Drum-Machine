@@ -2,4 +2,4 @@
 
 This is project on React-JS
 
-https://kamazik.000webhostapp.com/Drum-Machine/index.html
+https://kamazik.000webhostapp.com/Drum-Machine/
